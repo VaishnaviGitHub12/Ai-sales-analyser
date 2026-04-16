@@ -1,0 +1,49 @@
+date,product,region,revenue,quantity,salesperson,category
+2024-01-05,CloudSuite Pro,North,12400,8,Alice Chen,Software
+2024-01-12,DataPilot,South,8750,5,Bob Kumar,Analytics
+2024-01-18,CloudSuite Pro,East,15200,10,Carol Singh,Software
+2024-01-25,MarketEdge,West,6300,3,David Lee,Marketing
+2024-02-03,DataPilot,North,9100,6,Alice Chen,Analytics
+2024-02-09,CloudSuite Pro,South,11800,7,Eve Patel,Software
+2024-02-14,MarketEdge,East,7400,4,Frank Wu,Marketing
+2024-02-22,SalesForce+,West,19500,12,Grace Kim,CRM
+2024-03-01,CloudSuite Pro,North,13600,9,Alice Chen,Software
+2024-03-08,DataPilot,East,10200,7,Bob Kumar,Analytics
+2024-03-15,SalesForce+,South,22000,14,Eve Patel,CRM
+2024-03-21,MarketEdge,North,8100,5,Carol Singh,Marketing
+2024-04-04,CloudSuite Pro,West,14900,10,David Lee,Software
+2024-04-11,SalesForce+,East,25000,16,Grace Kim,CRM
+2024-04-18,DataPilot,South,11500,8,Frank Wu,Analytics
+2024-04-25,MarketEdge,West,9200,6,Alice Chen,Marketing
+2024-05-02,CloudSuite Pro,North,16100,11,Eve Patel,Software
+2024-05-09,SalesForce+,South,27500,18,Grace Kim,CRM
+2024-05-16,DataPilot,West,12800,9,Bob Kumar,Analytics
+2024-05-23,MarketEdge,East,10400,7,Carol Singh,Marketing
+2024-06-06,CloudSuite Pro,South,17800,12,David Lee,Software
+2024-06-13,SalesForce+,North,29000,19,Grace Kim,CRM
+2024-06-20,DataPilot,East,13500,10,Frank Wu,Analytics
+2024-06-27,MarketEdge,West,11600,8,Alice Chen,Marketing
+2024-07-04,CloudSuite Pro,East,19200,13,Eve Patel,Software
+2024-07-11,SalesForce+,West,31000,20,Grace Kim,CRM
+2024-07-18,DataPilot,North,14200,11,Bob Kumar,Analytics
+2024-07-25,MarketEdge,South,12800,9,Carol Singh,Marketing
+2024-08-01,CloudSuite Pro,West,20500,14,David Lee,Software
+2024-08-08,SalesForce+,East,33500,22,Grace Kim,CRM
+2024-08-15,DataPilot,South,15100,12,Frank Wu,Analytics
+2024-08-22,MarketEdge,North,13900,10,Alice Chen,Marketing
+2024-09-05,CloudSuite Pro,North,21800,15,Eve Patel,Software
+2024-09-12,SalesForce+,South,36000,24,Grace Kim,CRM
+2024-09-19,DataPilot,West,16400,13,Bob Kumar,Analytics
+2024-09-26,MarketEdge,East,15000,11,Carol Singh,Marketing
+2024-10-03,CloudSuite Pro,East,23200,16,David Lee,Software
+2024-10-10,SalesForce+,North,38500,26,Grace Kim,CRM
+2024-10-17,DataPilot,South,17600,14,Frank Wu,Analytics
+2024-10-24,MarketEdge,West,16200,12,Alice Chen,Marketing
+2024-11-07,CloudSuite Pro,South,24900,17,Eve Patel,Software
+2024-11-14,SalesForce+,West,41000,28,Grace Kim,CRM
+2024-11-21,DataPilot,East,18900,15,Bob Kumar,Analytics
+2024-11-28,MarketEdge,North,17500,13,Carol Singh,Marketing
+2024-12-05,CloudSuite Pro,West,26400,18,David Lee,Software
+2024-12-12,SalesForce+,East,43500,30,Grace Kim,CRM
+2024-12-19,DataPilot,North,20200,16,Frank Wu,Analytics
+2024-12-26,MarketEdge,South,18800,14,Alice Chen,Marketing
