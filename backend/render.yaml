@@ -10,4 +10,5 @@ services:
         sync: false
 
 
-        # 
+        # $env:GEMINI_API_KEY="AIzaSyDCmBnDYy_QJub9zjVItr9ARCPOINhJP4w"
+        # uvicorn main:app --reload --port 8000
