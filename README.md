@@ -1,5 +1,5 @@
 # AI Sales Analyser — 100% FREE
-
+https://ai-sales-analyser-app.vercel.app/
 Full-stack sales analytics platform. Every tool used is **completely free**.
 
 ## Free tools used
@@ -58,3 +58,4 @@ Visit: **http://localhost:5173**
 | quantity | Units sold          |
 
 Optional: `salesperson`, `category`
+
